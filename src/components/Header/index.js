@@ -11,7 +11,7 @@ function Header({ black }) {
             </div>
             <div className={styles.headerUser}>
                 <a href={'/'}>
-                    <img src={'https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_400x400.png'} alt={'User'} />
+                    <img src={'https://ih0.redbubble.net/image.618427277.3222/flat,400x400,075,f.u2.jpg'} alt={'User'} />
                 </a>
             </div>
         </header>
